@@ -314,7 +314,7 @@
     background: url(../Images/s1.jpg) no-repeat fixed;
     background-size: cover;
     position: relative;
-    padding: 70px;
+    padding: 60px;
 }
 .fixed_container2{
     width: 70%;
@@ -329,8 +329,9 @@
 }
 .fixed2 .part i{
     font-size: 30px;
-    /* color: antiquewhite; */
+    /* color: rgb(203, 131, 38); */
     color: rgb(95, 54, 1);
+    margin: 10px;
 }
 .fixed2 .part h3{
     font-size: 30px;
@@ -338,7 +339,7 @@
 }
 .fixed2 .part p{
     font-size: 25px;
-    margin: 10px;
+    margin-top: 10px;
 }
 
 
