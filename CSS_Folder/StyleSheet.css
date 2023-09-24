@@ -311,7 +311,7 @@
 /* fixed_container1 */
 .fixed2{
     overflow: auto;
-    background: url(../Images/stat3.jpg) no-repeat fixed;
+    background: url(../Images/s1.jpg) no-repeat fixed;
     background-size: cover;
     position: relative;
     padding: 70px;
